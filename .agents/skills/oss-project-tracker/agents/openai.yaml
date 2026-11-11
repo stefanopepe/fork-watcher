@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open-source project tracker"
+  short_description: "Track open-source developments that affect your organization"
+  default_prompt: "Use $oss-project-tracker to set up recurring tracking of projects relevant to my organization."
